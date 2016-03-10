@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BianchiFasaniGiovanni-Homework1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="myName">Giovanni Bianchi Fasani</string>
+    <string name="Picture_Profile">Picture Profile</string>
+    <string name="myMajor">Major</string>
+    <string name="myBio">Bio</string>
+    <string name="Bio">Major: Computer Science</string>
+    <string name="Class">Class: Senior</string>
+    <string name="GPA">GPA: 3.14</string>
+
+</resources>
